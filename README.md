@@ -50,7 +50,7 @@ Version Control System (Git + GitHub)
   - youtube section  
   - reserve section  
   - various section  
-  - sign-in seciton
+  - sign-in section
 
 - 전세진
   - main LAB section  
